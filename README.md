@@ -3,7 +3,7 @@ TwilightSLAM project created at the University of Michigan Ann Arbor with the ob
 <img width="1740" alt="image" src="https://user-images.githubusercontent.com/129995389/233230588-87859b21-1e94-4587-9348-0fbb4532afe7.png">
 
 
-As this project was worked on by 5 students, system requirements vary for each repository. Each image enhancment module and SLAM framework provides a detailed README.
+As this project operates in correspondence with various libraries and core algorithmic frameworks (keeping in mind quick real-time implementation ability), system requirements vary for each repository. Each image enhancment module and SLAM framework has a detailed readme associated in the corresponding directory for smooth implementation of our combined Twilight SLAM architectures.
 
 <img width="1960" alt="image" src="https://user-images.githubusercontent.com/129995389/233230632-f5a7bcf0-a12c-4dbc-a02e-6b176f0cec33.png">
 
