@@ -1,0 +1,1 @@
+compared_pose_pairs 48 pairsabsolute_translational_error.rmse 0.849265 mabsolute_translational_error.mean 0.725425 mabsolute_translational_error.median 0.722785 mabsolute_translational_error.std 0.441600 mabsolute_translational_error.min 0.000100 mabsolute_translational_error.max 1.790730 mmax idx: 30
